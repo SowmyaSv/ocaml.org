@@ -185,7 +185,9 @@ h1.planet a:hover {
   color: #c45641;
 }
 
-
+.navbar-inner .running-header.content ul{
+  columns:4;
+}
 h1.planet a {
   line-height: 35px;
 }
